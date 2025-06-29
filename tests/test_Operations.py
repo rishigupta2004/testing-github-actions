@@ -20,7 +20,6 @@ def test_divide():
     assert divide(5,2) == 2.5
     assert divide(-4,2) == -2
 
-
 def test_modulous():
     assert modulous(5,2) == 1
     assert modulous(9,3) == 0
